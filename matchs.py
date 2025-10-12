@@ -17,11 +17,12 @@ matchs = sofascore.get_match_dicts("24/25", "Spain La Liga")
 important_fields = [{"tournament":["name"]},
                     {"season":["year"]},
                     "roundInfo",
-                    {"homeTeam":["id", "name"]},
-                    {"awayTeam":["id", "name"]},
+                    {"homeTeam":["id", "name", "slug"]},
+                    {"awayTeam":["id", "name", "slug"]},
                     {"homeScore": ["period1", "period2", "normaltime"]},
                     {"awayScore": ["period1", "period2", "normaltime"]},
                     "id",
+                    "customId",
                     {"status":["description"]}]
 
 # Convertimos nuestros datos y contamos para tener claro cuales queremos y cuales no
