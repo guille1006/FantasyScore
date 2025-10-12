@@ -1,0 +1,384 @@
+id,tournament.name,season.year,roundInfo.round,homeTeam.id,homeTeam.name,awayTeam.id,awayTeam.name,homeScore.period1,homeScore.period2,homeScore.normaltime,awayScore.period1,awayScore.period2,awayScore.normaltime,status.description
+12437485,LaLiga,24/25,36,2831,Real Valladolid,24264,Girona FC,0.0,0.0,0.0,0.0,1.0,1.0,Ended
+12437498,LaLiga,24/25,36,2824,Real Sociedad,2821,Celta Vigo,0.0,0.0,0.0,1.0,0.0,1.0,Ended
+12437495,LaLiga,24/25,36,2833,Sevilla,6577,Las Palmas,0.0,1.0,1.0,0.0,0.0,0.0,Ended
+12437484,LaLiga,24/25,36,2885,Deportivo Alavés,2828,Valencia,0.0,1.0,1.0,0.0,0.0,0.0,Ended
+12437500,LaLiga,24/25,36,2819,Villarreal,2845,Leganés,3.0,0.0,3.0,0.0,0.0,0.0,Ended
+12437491,LaLiga,24/25,36,2829,Real Madrid,2826,Mallorca,0.0,2.0,2.0,1.0,0.0,1.0,Ended
+12437504,LaLiga,24/25,36,2818,Rayo Vallecano,2816,Real Betis,2.0,0.0,2.0,0.0,2.0,2.0,Ended
+12437502,LaLiga,24/25,36,2820,Osasuna,2836,Atlético Madrid,1.0,1.0,2.0,0.0,0.0,0.0,Ended
+12437492,LaLiga,24/25,36,2859,Getafe,2825,Athletic Club,0.0,0.0,0.0,0.0,2.0,2.0,Ended
+12437654,LaLiga,24/25,36,2814,Espanyol,2817,Barcelona,0.0,0.0,0.0,0.0,2.0,2.0,Ended
+12437497,LaLiga,24/25,37,6577,Las Palmas,2845,Leganés,0.0,0.0,0.0,1.0,0.0,1.0,Ended
+12437486,LaLiga,24/25,37,2831,Real Valladolid,2885,Deportivo Alavés,0.0,0.0,0.0,1.0,0.0,1.0,Ended
+12437505,LaLiga,24/25,37,2820,Osasuna,2814,Espanyol,1.0,1.0,2.0,0.0,0.0,0.0,Ended
+12437490,LaLiga,24/25,37,2826,Mallorca,2859,Getafe,0.0,1.0,1.0,0.0,2.0,2.0,Ended
+12437483,LaLiga,24/25,37,2821,Celta Vigo,2818,Rayo Vallecano,1.0,0.0,1.0,2.0,0.0,2.0,Ended
+12437496,LaLiga,24/25,37,2828,Valencia,2825,Athletic Club,0.0,0.0,0.0,0.0,1.0,1.0,Ended
+12437578,LaLiga,24/25,37,2824,Real Sociedad,24264,Girona FC,2.0,1.0,3.0,1.0,1.0,2.0,Ended
+12437493,LaLiga,24/25,37,2836,Atlético Madrid,2816,Real Betis,2.0,2.0,4.0,0.0,1.0,1.0,Ended
+12437489,LaLiga,24/25,37,2817,Barcelona,2819,Villarreal,2.0,0.0,2.0,1.0,2.0,3.0,Ended
+12437499,LaLiga,24/25,37,2833,Sevilla,2829,Real Madrid,0.0,0.0,0.0,0.0,2.0,2.0,Ended
+12437510,LaLiga,24/25,38,2816,Real Betis,2828,Valencia,1.0,0.0,1.0,0.0,1.0,1.0,Ended
+12437506,LaLiga,24/25,38,2829,Real Madrid,2824,Real Sociedad,1.0,1.0,2.0,0.0,0.0,0.0,Ended
+12437511,LaLiga,24/25,38,2845,Leganés,2831,Real Valladolid,3.0,0.0,3.0,0.0,0.0,0.0,Ended
+12437663,LaLiga,24/25,38,2814,Espanyol,6577,Las Palmas,0.0,2.0,2.0,0.0,0.0,0.0,Ended
+12437507,LaLiga,24/25,38,2885,Deportivo Alavés,2820,Osasuna,0.0,1.0,1.0,0.0,1.0,1.0,Ended
+12437508,LaLiga,24/25,38,2818,Rayo Vallecano,2826,Mallorca,0.0,0.0,0.0,0.0,0.0,0.0,Ended
+12437516,LaLiga,24/25,38,2859,Getafe,2821,Celta Vigo,1.0,0.0,1.0,1.0,1.0,2.0,Ended
+12437509,LaLiga,24/25,38,24264,Girona FC,2836,Atlético Madrid,0.0,0.0,0.0,0.0,4.0,4.0,Ended
+12437512,LaLiga,24/25,38,2819,Villarreal,2833,Sevilla,3.0,1.0,4.0,1.0,1.0,2.0,Ended
+12437503,LaLiga,24/25,38,2825,Athletic Club,2817,Barcelona,0.0,0.0,0.0,2.0,1.0,3.0,Ended
+12437529,LaLiga,24/25,33,2817,Barcelona,2826,Mallorca,0.0,1.0,1.0,0.0,0.0,0.0,Ended
+12437543,LaLiga,24/25,33,2821,Celta Vigo,2819,Villarreal,1.0,2.0,3.0,0.0,0.0,0.0,Ended
+12437527,LaLiga,24/25,33,2825,Athletic Club,6577,Las Palmas,1.0,0.0,1.0,0.0,0.0,0.0,Ended
+12437561,LaLiga,24/25,33,2885,Deportivo Alavés,2824,Real Sociedad,0.0,1.0,1.0,0.0,0.0,0.0,Ended
+12437530,LaLiga,24/25,33,2859,Getafe,2829,Real Madrid,0.0,0.0,0.0,1.0,0.0,1.0,Ended
+12437535,LaLiga,24/25,33,2845,Leganés,24264,Girona FC,0.0,1.0,1.0,0.0,1.0,1.0,Ended
+12437539,LaLiga,24/25,33,2820,Osasuna,2833,Sevilla,1.0,0.0,1.0,0.0,0.0,0.0,Ended
+12437526,LaLiga,24/25,33,2816,Real Betis,2831,Real Valladolid,1.0,4.0,5.0,1.0,0.0,1.0,Ended
+12437533,LaLiga,24/25,33,2836,Atlético Madrid,2818,Rayo Vallecano,2.0,1.0,3.0,0.0,0.0,0.0,Ended
+13607777,LaLiga,24/25,26,2819,Villarreal,2814,Espanyol,0.0,1.0,1.0,0.0,0.0,0.0,Ended
+12437542,LaLiga,24/25,34,2818,Rayo Vallecano,2859,Getafe,1.0,0.0,1.0,0.0,0.0,0.0,Ended
+12437536,LaLiga,24/25,34,2885,Deportivo Alavés,2836,Atlético Madrid,0.0,0.0,0.0,0.0,0.0,0.0,Ended
+12437541,LaLiga,24/25,34,2819,Villarreal,2820,Osasuna,3.0,1.0,4.0,0.0,2.0,2.0,Ended
+12437540,LaLiga,24/25,34,6577,Las Palmas,2828,Valencia,1.0,1.0,2.0,1.0,2.0,3.0,Ended
+12437534,LaLiga,24/25,34,2831,Real Valladolid,2817,Barcelona,1.0,0.0,1.0,0.0,2.0,2.0,Ended
+12437532,LaLiga,24/25,34,2829,Real Madrid,2821,Celta Vigo,2.0,1.0,3.0,0.0,2.0,2.0,Ended
+12437546,LaLiga,24/25,34,2833,Sevilla,2845,Leganés,1.0,1.0,2.0,1.0,1.0,2.0,Ended
+12437648,LaLiga,24/25,34,2814,Espanyol,2816,Real Betis,1.0,0.0,1.0,0.0,2.0,2.0,Ended
+12437538,LaLiga,24/25,34,2824,Real Sociedad,2825,Athletic Club,0.0,0.0,0.0,0.0,0.0,0.0,Ended
+12437537,LaLiga,24/25,34,24264,Girona FC,2826,Mallorca,1.0,0.0,1.0,0.0,0.0,0.0,Ended
+12437555,LaLiga,24/25,35,6577,Las Palmas,2818,Rayo Vallecano,0.0,0.0,0.0,0.0,1.0,1.0,Ended
+12437494,LaLiga,24/25,35,2828,Valencia,2859,Getafe,3.0,0.0,3.0,0.0,0.0,0.0,Ended
+12437548,LaLiga,24/25,35,2821,Celta Vigo,2833,Sevilla,1.0,2.0,3.0,1.0,1.0,2.0,Ended
+12437554,LaLiga,24/25,35,2826,Mallorca,2831,Real Valladolid,1.0,1.0,2.0,1.0,0.0,1.0,Ended
+12437551,LaLiga,24/25,35,24264,Girona FC,2819,Villarreal,0.0,0.0,0.0,0.0,1.0,1.0,Ended
+12437544,LaLiga,24/25,35,2836,Atlético Madrid,2824,Real Sociedad,4.0,0.0,4.0,0.0,0.0,0.0,Ended
+12437579,LaLiga,24/25,35,2845,Leganés,2814,Espanyol,2.0,1.0,3.0,0.0,2.0,2.0,Ended
+12437545,LaLiga,24/25,35,2817,Barcelona,2829,Real Madrid,4.0,0.0,4.0,2.0,1.0,3.0,Ended
+12437501,LaLiga,24/25,35,2825,Athletic Club,2885,Deportivo Alavés,0.0,1.0,1.0,0.0,0.0,0.0,Ended
+12437547,LaLiga,24/25,35,2816,Real Betis,2820,Osasuna,0.0,1.0,1.0,0.0,1.0,1.0,Ended
+12437887,LaLiga,24/25,30,24264,Girona FC,2885,Deportivo Alavés,0.0,0.0,0.0,0.0,1.0,1.0,Ended
+12437577,LaLiga,24/25,30,2829,Real Madrid,2828,Valencia,0.0,1.0,1.0,1.0,1.0,2.0,Ended
+12437885,LaLiga,24/25,30,2826,Mallorca,2821,Celta Vigo,1.0,0.0,1.0,0.0,2.0,2.0,Ended
+12437575,LaLiga,24/25,30,2817,Barcelona,2816,Real Betis,1.0,0.0,1.0,1.0,0.0,1.0,Ended
+12437574,LaLiga,24/25,30,6577,Las Palmas,2824,Real Sociedad,0.0,1.0,1.0,1.0,2.0,3.0,Ended
+12437884,LaLiga,24/25,30,2833,Sevilla,2836,Atlético Madrid,1.0,0.0,1.0,1.0,1.0,2.0,Ended
+12437886,LaLiga,24/25,30,2831,Real Valladolid,2859,Getafe,0.0,0.0,0.0,3.0,1.0,4.0,Ended
+12437883,LaLiga,24/25,30,2819,Villarreal,2825,Athletic Club,0.0,0.0,0.0,0.0,0.0,0.0,Ended
+12437882,LaLiga,24/25,30,2845,Leganés,2820,Osasuna,0.0,1.0,1.0,0.0,1.0,1.0,Ended
+12437517,LaLiga,24/25,31,2828,Valencia,2833,Sevilla,1.0,0.0,1.0,0.0,0.0,0.0,Ended
+12437513,LaLiga,24/25,31,2824,Real Sociedad,2826,Mallorca,0.0,0.0,0.0,1.0,1.0,2.0,Ended
+12437629,LaLiga,24/25,31,2859,Getafe,6577,Las Palmas,1.0,0.0,1.0,0.0,3.0,3.0,Ended
+12437515,LaLiga,24/25,31,2821,Celta Vigo,2814,Espanyol,0.0,0.0,0.0,1.0,1.0,2.0,Ended
+12437635,LaLiga,24/25,31,2845,Leganés,2817,Barcelona,0.0,0.0,0.0,0.0,1.0,1.0,Ended
+12437514,LaLiga,24/25,31,2820,Osasuna,24264,Girona FC,1.0,1.0,2.0,0.0,1.0,1.0,Ended
+12437632,LaLiga,24/25,31,2885,Deportivo Alavés,2829,Real Madrid,0.0,0.0,0.0,1.0,0.0,1.0,Ended
+12437626,LaLiga,24/25,31,2816,Real Betis,2819,Villarreal,1.0,0.0,1.0,1.0,1.0,2.0,Ended
+12437621,LaLiga,24/25,31,2825,Athletic Club,2818,Rayo Vallecano,0.0,3.0,3.0,1.0,0.0,1.0,Ended
+12437623,LaLiga,24/25,31,2836,Atlético Madrid,2831,Real Valladolid,2.0,2.0,4.0,1.0,1.0,2.0,Ended
+12437640,LaLiga,24/25,32,2814,Espanyol,2859,Getafe,1.0,0.0,1.0,0.0,0.0,0.0,Ended
+12437518,LaLiga,24/25,32,2818,Rayo Vallecano,2828,Valencia,1.0,0.0,1.0,0.0,1.0,1.0,Ended
+12437521,LaLiga,24/25,32,2817,Barcelona,2821,Celta Vigo,1.0,3.0,4.0,1.0,2.0,3.0,Ended
+12437525,LaLiga,24/25,32,2826,Mallorca,2845,Leganés,0.0,0.0,0.0,0.0,0.0,0.0,Ended
+12437519,LaLiga,24/25,32,6577,Las Palmas,2836,Atlético Madrid,0.0,1.0,1.0,0.0,0.0,0.0,Ended
+12437522,LaLiga,24/25,32,2831,Real Valladolid,2820,Osasuna,0.0,2.0,2.0,2.0,1.0,3.0,Ended
+12437524,LaLiga,24/25,32,2819,Villarreal,2824,Real Sociedad,1.0,1.0,2.0,1.0,1.0,2.0,Ended
+12437528,LaLiga,24/25,32,2833,Sevilla,2885,Deportivo Alavés,1.0,0.0,1.0,1.0,0.0,1.0,Ended
+12437523,LaLiga,24/25,32,2829,Real Madrid,2825,Athletic Club,0.0,1.0,1.0,0.0,0.0,0.0,Ended
+12437520,LaLiga,24/25,32,24264,Girona FC,2816,Real Betis,0.0,1.0,1.0,3.0,0.0,3.0,Ended
+12437531,LaLiga,24/25,33,2828,Valencia,2814,Espanyol,0.0,1.0,1.0,1.0,0.0,1.0,Ended
+12437552,LaLiga,24/25,27,2885,Deportivo Alavés,2819,Villarreal,1.0,0.0,1.0,0.0,0.0,0.0,Ended
+12437879,LaLiga,24/25,27,2828,Valencia,2831,Real Valladolid,1.0,1.0,2.0,1.0,0.0,1.0,Ended
+12437558,LaLiga,24/25,27,2859,Getafe,2836,Atlético Madrid,0.0,2.0,2.0,0.0,1.0,1.0,Ended
+12437549,LaLiga,24/25,27,2829,Real Madrid,2818,Rayo Vallecano,2.0,0.0,2.0,1.0,0.0,1.0,Ended
+12437876,LaLiga,24/25,27,2816,Real Betis,6577,Las Palmas,0.0,1.0,1.0,0.0,0.0,0.0,Ended
+12437874,LaLiga,24/25,27,2825,Athletic Club,2826,Mallorca,0.0,1.0,1.0,0.0,1.0,1.0,Ended
+12437878,LaLiga,24/25,27,2824,Real Sociedad,2833,Sevilla,0.0,0.0,0.0,0.0,1.0,1.0,Ended
+12437880,LaLiga,24/25,27,2814,Espanyol,24264,Girona FC,0.0,1.0,1.0,0.0,1.0,1.0,Ended
+12437566,LaLiga,24/25,28,6577,Las Palmas,2885,Deportivo Alavés,0.0,2.0,2.0,1.0,1.0,2.0,Ended
+12437557,LaLiga,24/25,28,2831,Real Valladolid,2821,Celta Vigo,0.0,0.0,0.0,0.0,1.0,1.0,Ended
+12437565,LaLiga,24/25,28,2826,Mallorca,2814,Espanyol,0.0,2.0,2.0,0.0,1.0,1.0,Ended
+12437562,LaLiga,24/25,28,2819,Villarreal,2829,Real Madrid,1.0,0.0,1.0,2.0,0.0,2.0,Ended
+12437556,LaLiga,24/25,28,24264,Girona FC,2828,Valencia,0.0,1.0,1.0,0.0,1.0,1.0,Ended
+12437560,LaLiga,24/25,28,2845,Leganés,2816,Real Betis,2.0,0.0,2.0,0.0,3.0,3.0,Ended
+12437559,LaLiga,24/25,28,2833,Sevilla,2825,Athletic Club,0.0,0.0,0.0,0.0,1.0,1.0,Ended
+12437563,LaLiga,24/25,28,2820,Osasuna,2859,Getafe,1.0,0.0,1.0,0.0,2.0,2.0,Ended
+12437553,LaLiga,24/25,28,2818,Rayo Vallecano,2824,Real Sociedad,0.0,2.0,2.0,1.0,1.0,2.0,Ended
+12437550,LaLiga,24/25,28,2836,Atlético Madrid,2817,Barcelona,1.0,1.0,2.0,0.0,4.0,4.0,Ended
+13637082,LaLiga,24/25,27,2817,Barcelona,2820,Osasuna,2.0,1.0,3.0,0.0,0.0,0.0,Ended
+12437571,LaLiga,24/25,29,2824,Real Sociedad,2831,Real Valladolid,1.0,1.0,2.0,0.0,1.0,1.0,Ended
+12437881,LaLiga,24/25,29,2814,Espanyol,2836,Atlético Madrid,0.0,1.0,1.0,1.0,0.0,1.0,Ended
+12437572,LaLiga,24/25,29,2885,Deportivo Alavés,2818,Rayo Vallecano,0.0,0.0,0.0,1.0,1.0,2.0,Ended
+12437573,LaLiga,24/25,29,2829,Real Madrid,2845,Leganés,1.0,2.0,3.0,2.0,0.0,2.0,Ended
+12437568,LaLiga,24/25,29,2859,Getafe,2819,Villarreal,1.0,0.0,1.0,2.0,0.0,2.0,Ended
+12437570,LaLiga,24/25,29,2817,Barcelona,24264,Girona FC,1.0,3.0,4.0,0.0,1.0,1.0,Ended
+12437576,LaLiga,24/25,29,2828,Valencia,2826,Mallorca,0.0,1.0,1.0,0.0,0.0,0.0,Ended
+12437564,LaLiga,24/25,29,2825,Athletic Club,2820,Osasuna,0.0,0.0,0.0,0.0,0.0,0.0,Ended
+12437567,LaLiga,24/25,29,2816,Real Betis,2833,Sevilla,2.0,0.0,2.0,1.0,0.0,1.0,Ended
+12437569,LaLiga,24/25,29,2821,Celta Vigo,6577,Las Palmas,1.0,0.0,1.0,0.0,1.0,1.0,Ended
+12437888,LaLiga,24/25,30,2818,Rayo Vallecano,2814,Espanyol,0.0,0.0,0.0,2.0,2.0,4.0,Ended
+12437825,LaLiga,24/25,24,24264,Girona FC,2859,Getafe,0.0,1.0,1.0,1.0,1.0,2.0,Ended
+12437846,LaLiga,24/25,24,2845,Leganés,2885,Deportivo Alavés,2.0,1.0,3.0,1.0,2.0,3.0,Ended
+12437817,LaLiga,24/25,24,2820,Osasuna,2829,Real Madrid,0.0,1.0,1.0,1.0,0.0,1.0,Ended
+12437802,LaLiga,24/25,24,2836,Atlético Madrid,2821,Celta Vigo,0.0,1.0,1.0,0.0,1.0,1.0,Ended
+12437836,LaLiga,24/25,24,2819,Villarreal,2828,Valencia,1.0,0.0,1.0,0.0,1.0,1.0,Ended
+12437821,LaLiga,24/25,24,2814,Espanyol,2825,Athletic Club,0.0,1.0,1.0,0.0,1.0,1.0,Ended
+12437830,LaLiga,24/25,24,2831,Real Valladolid,2833,Sevilla,0.0,0.0,0.0,2.0,2.0,4.0,Ended
+12437841,LaLiga,24/25,24,2826,Mallorca,6577,Las Palmas,3.0,0.0,3.0,0.0,1.0,1.0,Ended
+12437811,LaLiga,24/25,24,2816,Real Betis,2824,Real Sociedad,0.0,3.0,3.0,0.0,0.0,0.0,Ended
+12437806,LaLiga,24/25,24,2817,Barcelona,2818,Rayo Vallecano,1.0,0.0,1.0,0.0,0.0,0.0,Ended
+12437853,LaLiga,24/25,25,2821,Celta Vigo,2820,Osasuna,0.0,1.0,1.0,0.0,0.0,0.0,Ended
+12437857,LaLiga,24/25,25,2885,Deportivo Alavés,2814,Espanyol,0.0,0.0,0.0,0.0,1.0,1.0,Ended
+12437856,LaLiga,24/25,25,2818,Rayo Vallecano,2819,Villarreal,0.0,0.0,0.0,0.0,1.0,1.0,Ended
+12437858,LaLiga,24/25,25,2828,Valencia,2836,Atlético Madrid,0.0,0.0,0.0,2.0,1.0,3.0,Ended
+12437859,LaLiga,24/25,25,6577,Las Palmas,2817,Barcelona,0.0,0.0,0.0,0.0,2.0,2.0,Ended
+12437850,LaLiga,24/25,25,2825,Athletic Club,2831,Real Valladolid,4.0,3.0,7.0,0.0,1.0,1.0,Ended
+12437861,LaLiga,24/25,25,2829,Real Madrid,24264,Girona FC,1.0,1.0,2.0,0.0,0.0,0.0,Ended
+12437860,LaLiga,24/25,25,2859,Getafe,2816,Real Betis,0.0,1.0,1.0,1.0,1.0,2.0,Ended
+12437863,LaLiga,24/25,25,2824,Real Sociedad,2845,Leganés,1.0,2.0,3.0,0.0,0.0,0.0,Ended
+12437862,LaLiga,24/25,25,2833,Sevilla,2826,Mallorca,1.0,0.0,1.0,0.0,1.0,1.0,Ended
+12437871,LaLiga,24/25,26,2831,Real Valladolid,6577,Las Palmas,0.0,1.0,1.0,1.0,0.0,1.0,Ended
+12437869,LaLiga,24/25,26,24264,Girona FC,2821,Celta Vigo,1.0,1.0,2.0,1.0,1.0,2.0,Ended
+12437867,LaLiga,24/25,26,2818,Rayo Vallecano,2833,Sevilla,0.0,1.0,1.0,0.0,1.0,1.0,Ended
+12437865,LaLiga,24/25,26,2816,Real Betis,2829,Real Madrid,1.0,1.0,2.0,1.0,0.0,1.0,Ended
+12437868,LaLiga,24/25,26,2836,Atlético Madrid,2825,Athletic Club,0.0,1.0,1.0,0.0,0.0,0.0,Ended
+12437870,LaLiga,24/25,26,2845,Leganés,2859,Getafe,0.0,1.0,1.0,0.0,0.0,0.0,Ended
+12437864,LaLiga,24/25,26,2817,Barcelona,2824,Real Sociedad,2.0,2.0,4.0,0.0,0.0,0.0,Ended
+12437872,LaLiga,24/25,26,2826,Mallorca,2885,Deportivo Alavés,1.0,0.0,1.0,0.0,1.0,1.0,Ended
+12437866,LaLiga,24/25,26,2820,Osasuna,2828,Valencia,3.0,0.0,3.0,2.0,1.0,3.0,Ended
+12437877,LaLiga,24/25,27,2821,Celta Vigo,2845,Leganés,2.0,0.0,2.0,1.0,0.0,1.0,Ended
+12437643,LaLiga,24/25,21,6577,Las Palmas,2820,Osasuna,0.0,1.0,1.0,0.0,1.0,1.0,Ended
+12437657,LaLiga,24/25,21,2826,Mallorca,2816,Real Betis,0.0,0.0,0.0,0.0,1.0,1.0,Ended
+12437622,LaLiga,24/25,21,2836,Atlético Madrid,2819,Villarreal,0.0,1.0,1.0,1.0,0.0,1.0,Ended
+12437683,LaLiga,24/25,21,2833,Sevilla,2814,Espanyol,0.0,1.0,1.0,1.0,0.0,1.0,Ended
+12437677,LaLiga,24/25,21,2831,Real Valladolid,2829,Real Madrid,0.0,0.0,0.0,1.0,2.0,3.0,Ended
+12437671,LaLiga,24/25,21,2818,Rayo Vallecano,24264,Girona FC,0.0,2.0,2.0,0.0,1.0,1.0,Ended
+12437665,LaLiga,24/25,21,2824,Real Sociedad,2859,Getafe,0.0,0.0,0.0,0.0,3.0,3.0,Ended
+12437614,LaLiga,24/25,21,2825,Athletic Club,2845,Leganés,0.0,0.0,0.0,0.0,0.0,0.0,Ended
+12437633,LaLiga,24/25,21,2817,Barcelona,2828,Valencia,5.0,2.0,7.0,0.0,1.0,1.0,Ended
+12437649,LaLiga,24/25,21,2885,Deportivo Alavés,2821,Celta Vigo,1.0,0.0,1.0,0.0,1.0,1.0,Ended
+12437719,LaLiga,24/25,22,2845,Leganés,2818,Rayo Vallecano,0.0,0.0,0.0,0.0,1.0,1.0,Ended
+12437695,LaLiga,24/25,22,2859,Getafe,2833,Sevilla,0.0,0.0,0.0,0.0,0.0,0.0,Ended
+12437713,LaLiga,24/25,22,2819,Villarreal,2831,Real Valladolid,1.0,4.0,5.0,0.0,1.0,1.0,Ended
+12437689,LaLiga,24/25,22,2836,Atlético Madrid,2826,Mallorca,1.0,1.0,2.0,0.0,0.0,0.0,Ended
+12437725,LaLiga,24/25,22,2814,Espanyol,2829,Real Madrid,0.0,1.0,1.0,0.0,0.0,0.0,Ended
+12437743,LaLiga,24/25,22,2817,Barcelona,2885,Deportivo Alavés,0.0,1.0,1.0,0.0,0.0,0.0,Ended
+12437737,LaLiga,24/25,22,2828,Valencia,2821,Celta Vigo,1.0,1.0,2.0,0.0,1.0,1.0,Ended
+12437707,LaLiga,24/25,22,2820,Osasuna,2824,Real Sociedad,1.0,1.0,2.0,0.0,1.0,1.0,Ended
+12437732,LaLiga,24/25,22,2816,Real Betis,2825,Athletic Club,2.0,0.0,2.0,1.0,1.0,2.0,Ended
+12437701,LaLiga,24/25,22,24264,Girona FC,6577,Las Palmas,1.0,1.0,2.0,0.0,1.0,1.0,Ended
+12437760,LaLiga,24/25,23,2818,Rayo Vallecano,2831,Real Valladolid,0.0,1.0,1.0,0.0,0.0,0.0,Ended
+12437786,LaLiga,24/25,23,2821,Celta Vigo,2816,Real Betis,0.0,3.0,3.0,2.0,0.0,2.0,Ended
+12437749,LaLiga,24/25,23,2825,Athletic Club,24264,Girona FC,2.0,1.0,3.0,0.0,0.0,0.0,Ended
+12437765,LaLiga,24/25,23,6577,Las Palmas,2819,Villarreal,0.0,1.0,1.0,0.0,2.0,2.0,Ended
+12437775,LaLiga,24/25,23,2829,Real Madrid,2836,Atlético Madrid,0.0,1.0,1.0,1.0,0.0,1.0,Ended
+12437770,LaLiga,24/25,23,2885,Deportivo Alavés,2859,Getafe,0.0,0.0,0.0,1.0,0.0,1.0,Ended
+12437791,LaLiga,24/25,23,2828,Valencia,2845,Leganés,2.0,0.0,2.0,0.0,0.0,0.0,Ended
+12437796,LaLiga,24/25,23,2824,Real Sociedad,2814,Espanyol,1.0,1.0,2.0,0.0,1.0,1.0,Ended
+12437781,LaLiga,24/25,23,2833,Sevilla,2817,Barcelona,1.0,0.0,1.0,1.0,3.0,4.0,Ended
+12437754,LaLiga,24/25,23,2826,Mallorca,2820,Osasuna,0.0,1.0,1.0,0.0,1.0,1.0,Ended
+13096804,LaLiga,24/25,12,2819,Villarreal,2818,Rayo Vallecano,1.0,0.0,1.0,1.0,0.0,1.0,Ended
+12437785,LaLiga,24/25,18,24264,Girona FC,2831,Real Valladolid,2.0,1.0,3.0,0.0,0.0,0.0,Ended
+12437783,LaLiga,24/25,18,2859,Getafe,2826,Mallorca,0.0,0.0,0.0,0.0,1.0,1.0,Ended
+12437780,LaLiga,24/25,18,2821,Celta Vigo,2824,Real Sociedad,2.0,0.0,2.0,0.0,0.0,0.0,Ended
+12437793,LaLiga,24/25,18,2820,Osasuna,2825,Athletic Club,1.0,0.0,1.0,1.0,1.0,2.0,Ended
+12437794,LaLiga,24/25,18,2817,Barcelona,2836,Atlético Madrid,1.0,0.0,1.0,0.0,2.0,2.0,Ended
+12437797,LaLiga,24/25,18,2828,Valencia,2885,Deportivo Alavés,0.0,2.0,2.0,1.0,1.0,2.0,Ended
+12437788,LaLiga,24/25,18,2829,Real Madrid,2833,Sevilla,3.0,1.0,4.0,1.0,1.0,2.0,Ended
+12437799,LaLiga,24/25,18,6577,Las Palmas,2814,Espanyol,0.0,1.0,1.0,0.0,0.0,0.0,Ended
+12437790,LaLiga,24/25,18,2845,Leganés,2819,Villarreal,2.0,0.0,2.0,2.0,3.0,5.0,Ended
+12437778,LaLiga,24/25,18,2816,Real Betis,2818,Rayo Vallecano,1.0,0.0,1.0,0.0,1.0,1.0,Ended
+13199638,LaLiga,24/25,12,2828,Valencia,2829,Real Madrid,1.0,0.0,1.0,0.0,2.0,2.0,Ended
+12437822,LaLiga,24/25,19,2818,Rayo Vallecano,2821,Celta Vigo,1.0,1.0,2.0,1.0,0.0,1.0,Ended
+12437812,LaLiga,24/25,19,2885,Deportivo Alavés,24264,Girona FC,0.0,0.0,0.0,0.0,1.0,1.0,Ended
+12437819,LaLiga,24/25,19,2831,Real Valladolid,2816,Real Betis,0.0,1.0,1.0,0.0,0.0,0.0,Ended
+12437814,LaLiga,24/25,19,2814,Espanyol,2845,Leganés,1.0,0.0,1.0,1.0,0.0,1.0,Ended
+12437809,LaLiga,24/25,19,2833,Sevilla,2828,Valencia,0.0,1.0,1.0,0.0,1.0,1.0,Ended
+12437823,LaLiga,24/25,19,6577,Las Palmas,2859,Getafe,0.0,1.0,1.0,0.0,2.0,2.0,Ended
+12437804,LaLiga,24/25,19,2836,Atlético Madrid,2820,Osasuna,0.0,1.0,1.0,0.0,0.0,0.0,Ended
+12437807,LaLiga,24/25,19,2824,Real Sociedad,2819,Villarreal,0.0,1.0,1.0,0.0,0.0,0.0,Ended
+12437831,LaLiga,24/25,20,2814,Espanyol,2831,Real Valladolid,1.0,1.0,2.0,0.0,1.0,1.0,Ended
+12437827,LaLiga,24/25,20,24264,Girona FC,2833,Sevilla,1.0,0.0,1.0,0.0,2.0,2.0,Ended
+12437837,LaLiga,24/25,20,2845,Leganés,2836,Atlético Madrid,0.0,1.0,1.0,0.0,0.0,0.0,Ended
+12437848,LaLiga,24/25,20,2816,Real Betis,2885,Deportivo Alavés,1.0,0.0,1.0,1.0,2.0,3.0,Ended
+12437838,LaLiga,24/25,20,2859,Getafe,2817,Barcelona,1.0,0.0,1.0,1.0,0.0,1.0,Ended
+12437834,LaLiga,24/25,20,2821,Celta Vigo,2825,Athletic Club,0.0,1.0,1.0,0.0,2.0,2.0,Ended
+12437845,LaLiga,24/25,20,2829,Real Madrid,6577,Las Palmas,3.0,1.0,4.0,1.0,0.0,1.0,Ended
+12437829,LaLiga,24/25,20,2820,Osasuna,2818,Rayo Vallecano,0.0,1.0,1.0,1.0,0.0,1.0,Ended
+12437844,LaLiga,24/25,20,2828,Valencia,2824,Real Sociedad,1.0,0.0,1.0,0.0,0.0,0.0,Ended
+12437840,LaLiga,24/25,20,2819,Villarreal,2826,Mallorca,4.0,0.0,4.0,0.0,0.0,0.0,Ended
+12437715,LaLiga,24/25,15,2814,Espanyol,2821,Celta Vigo,1.0,2.0,3.0,0.0,1.0,1.0,Ended
+12437720,LaLiga,24/25,15,2831,Real Valladolid,2836,Atlético Madrid,0.0,0.0,0.0,3.0,2.0,5.0,Ended
+12437727,LaLiga,24/25,15,2819,Villarreal,24264,Girona FC,1.0,1.0,2.0,0.0,2.0,2.0,Ended
+12437724,LaLiga,24/25,15,2829,Real Madrid,2859,Getafe,2.0,0.0,2.0,0.0,0.0,0.0,Ended
+12437717,LaLiga,24/25,15,2818,Rayo Vallecano,2825,Athletic Club,1.0,0.0,1.0,0.0,2.0,2.0,Ended
+12437722,LaLiga,24/25,15,2824,Real Sociedad,2816,Real Betis,2.0,0.0,2.0,0.0,0.0,0.0,Ended
+12437729,LaLiga,24/25,15,2833,Sevilla,2820,Osasuna,0.0,1.0,1.0,0.0,1.0,1.0,Ended
+12437816,LaLiga,24/25,19,2826,Mallorca,2817,Barcelona,1.0,0.0,1.0,1.0,4.0,5.0,Ended
+12437801,LaLiga,24/25,19,2825,Athletic Club,2829,Real Madrid,0.0,2.0,2.0,0.0,1.0,1.0,Ended
+12437735,LaLiga,24/25,16,2821,Celta Vigo,2826,Mallorca,1.0,1.0,2.0,0.0,0.0,0.0,Ended
+12437740,LaLiga,24/25,16,6577,Las Palmas,2831,Real Valladolid,1.0,1.0,2.0,1.0,0.0,1.0,Ended
+12437745,LaLiga,24/25,16,2816,Real Betis,2817,Barcelona,0.0,2.0,2.0,1.0,1.0,2.0,Ended
+12437747,LaLiga,24/25,16,2828,Valencia,2818,Rayo Vallecano,0.0,0.0,0.0,1.0,0.0,1.0,Ended
+12437738,LaLiga,24/25,16,24264,Girona FC,2829,Real Madrid,0.0,0.0,0.0,1.0,2.0,3.0,Ended
+12437742,LaLiga,24/25,16,2845,Leganés,2824,Real Sociedad,0.0,0.0,0.0,1.0,2.0,3.0,Ended
+12437731,LaLiga,24/25,16,2825,Athletic Club,2819,Villarreal,1.0,1.0,2.0,0.0,0.0,0.0,Ended
+12437750,LaLiga,24/25,16,2820,Osasuna,2885,Deportivo Alavés,0.0,2.0,2.0,1.0,1.0,2.0,Ended
+12437733,LaLiga,24/25,16,2836,Atlético Madrid,2833,Sevilla,1.0,3.0,4.0,2.0,1.0,3.0,Ended
+12437752,LaLiga,24/25,16,2859,Getafe,2814,Espanyol,1.0,0.0,1.0,0.0,0.0,0.0,Ended
+12437773,LaLiga,24/25,17,2831,Real Valladolid,2828,Valencia,1.0,0.0,1.0,0.0,0.0,0.0,Ended
+12437764,LaLiga,24/25,17,2814,Espanyol,2820,Osasuna,0.0,0.0,0.0,0.0,0.0,0.0,Ended
+12437771,LaLiga,24/25,17,2826,Mallorca,24264,Girona FC,1.0,1.0,2.0,1.0,0.0,1.0,Ended
+12437769,LaLiga,24/25,17,2833,Sevilla,2821,Celta Vigo,0.0,1.0,1.0,0.0,0.0,0.0,Ended
+12437759,LaLiga,24/25,17,2818,Rayo Vallecano,2829,Real Madrid,2.0,1.0,3.0,2.0,1.0,3.0,Ended
+12437755,LaLiga,24/25,17,2836,Atlético Madrid,2859,Getafe,0.0,1.0,1.0,0.0,0.0,0.0,Ended
+12437762,LaLiga,24/25,17,2885,Deportivo Alavés,2825,Athletic Club,0.0,1.0,1.0,1.0,0.0,1.0,Ended
+12437776,LaLiga,24/25,17,2824,Real Sociedad,6577,Las Palmas,0.0,0.0,0.0,0.0,0.0,0.0,Ended
+12437767,LaLiga,24/25,17,2819,Villarreal,2816,Real Betis,0.0,1.0,1.0,1.0,1.0,2.0,Ended
+12437757,LaLiga,24/25,17,2817,Barcelona,2845,Leganés,0.0,0.0,0.0,1.0,0.0,1.0,Ended
+13128822,LaLiga,24/25,13,2814,Espanyol,2828,Valencia,1.0,0.0,1.0,0.0,1.0,1.0,Ended
+12437651,LaLiga,24/25,12,2819,Villarreal,2818,Rayo Vallecano,,,,,,,Postponed
+12437653,LaLiga,24/25,12,2828,Valencia,2829,Real Madrid,,,,,,,Postponed
+12437637,LaLiga,24/25,12,2836,Atlético Madrid,6577,Las Palmas,1.0,1.0,2.0,0.0,0.0,0.0,Ended
+12437658,LaLiga,24/25,12,2817,Barcelona,2814,Espanyol,3.0,0.0,3.0,0.0,1.0,1.0,Ended
+12437655,LaLiga,24/25,12,2833,Sevilla,2824,Real Sociedad,0.0,0.0,0.0,1.0,1.0,2.0,Ended
+12437634,LaLiga,24/25,12,2825,Athletic Club,2816,Real Betis,0.0,1.0,1.0,0.0,1.0,1.0,Ended
+12437639,LaLiga,24/25,12,2821,Celta Vigo,2859,Getafe,1.0,0.0,1.0,0.0,0.0,0.0,Ended
+12437680,LaLiga,24/25,13,2818,Rayo Vallecano,6577,Las Palmas,0.0,1.0,1.0,1.0,2.0,3.0,Ended
+12437678,LaLiga,24/25,13,2829,Real Madrid,2820,Osasuna,2.0,2.0,4.0,0.0,0.0,0.0,Ended
+12437682,LaLiga,24/25,13,2819,Villarreal,2885,Deportivo Alavés,1.0,2.0,3.0,0.0,0.0,0.0,Ended
+12437668,LaLiga,24/25,13,2814,Espanyol,2828,Valencia,,,,,,,Postponed
+12437666,LaLiga,24/25,13,2845,Leganés,2833,Sevilla,0.0,1.0,1.0,0.0,0.0,0.0,Ended
+12437660,LaLiga,24/25,13,2816,Real Betis,2821,Celta Vigo,1.0,1.0,2.0,1.0,1.0,2.0,Ended
+12437673,LaLiga,24/25,13,2826,Mallorca,2836,Atlético Madrid,0.0,0.0,0.0,0.0,1.0,1.0,Ended
+12437670,LaLiga,24/25,13,2831,Real Valladolid,2825,Athletic Club,0.0,1.0,1.0,0.0,1.0,1.0,Ended
+12437662,LaLiga,24/25,13,2859,Getafe,24264,Girona FC,0.0,0.0,0.0,1.0,0.0,1.0,Ended
+12437675,LaLiga,24/25,13,2824,Real Sociedad,2817,Barcelona,1.0,0.0,1.0,0.0,0.0,0.0,Ended
+12437686,LaLiga,24/25,14,2859,Getafe,2831,Real Valladolid,0.0,2.0,2.0,0.0,0.0,0.0,Ended
+12437698,LaLiga,24/25,14,2828,Valencia,2816,Real Betis,1.0,3.0,4.0,1.0,1.0,2.0,Ended
+12437703,LaLiga,24/25,14,2836,Atlético Madrid,2885,Deportivo Alavés,0.0,2.0,2.0,1.0,0.0,1.0,Ended
+12437691,LaLiga,24/25,14,6577,Las Palmas,2826,Mallorca,0.0,2.0,2.0,0.0,3.0,3.0,Ended
+12437705,LaLiga,24/25,14,24264,Girona FC,2814,Espanyol,4.0,0.0,4.0,0.0,1.0,1.0,Ended
+12437696,LaLiga,24/25,14,2821,Celta Vigo,2817,Barcelona,0.0,2.0,2.0,1.0,1.0,2.0,Ended
+12437688,LaLiga,24/25,14,2820,Osasuna,2819,Villarreal,2.0,0.0,2.0,0.0,2.0,2.0,Ended
+12437700,LaLiga,24/25,14,2833,Sevilla,2818,Rayo Vallecano,1.0,0.0,1.0,0.0,0.0,0.0,Ended
+12437693,LaLiga,24/25,14,2845,Leganés,2829,Real Madrid,0.0,0.0,0.0,1.0,2.0,3.0,Ended
+12437685,LaLiga,24/25,14,2825,Athletic Club,2824,Real Sociedad,1.0,0.0,1.0,0.0,0.0,0.0,Ended
+12437710,LaLiga,24/25,15,2826,Mallorca,2828,Valencia,1.0,1.0,2.0,1.0,0.0,1.0,Ended
+12437708,LaLiga,24/25,15,2817,Barcelona,6577,Las Palmas,0.0,1.0,1.0,0.0,2.0,2.0,Ended
+12437712,LaLiga,24/25,15,2885,Deportivo Alavés,2845,Leganés,0.0,1.0,1.0,0.0,1.0,1.0,Ended
+12437833,LaLiga,24/25,9,2831,Real Valladolid,2818,Rayo Vallecano,0.0,1.0,1.0,0.0,2.0,2.0,Ended
+12437832,LaLiga,24/25,9,6577,Las Palmas,2821,Celta Vigo,0.0,0.0,0.0,1.0,0.0,1.0,Ended
+12437813,LaLiga,24/25,9,2829,Real Madrid,2819,Villarreal,1.0,1.0,2.0,0.0,0.0,0.0,Ended
+12437824,LaLiga,24/25,9,24264,Girona FC,2825,Athletic Club,1.0,1.0,2.0,1.0,0.0,1.0,Ended
+12437815,LaLiga,24/25,9,2885,Deportivo Alavés,2817,Barcelona,0.0,0.0,0.0,3.0,0.0,3.0,Ended
+12437828,LaLiga,24/25,9,2833,Sevilla,2816,Real Betis,0.0,1.0,1.0,0.0,0.0,0.0,Ended
+12437826,LaLiga,24/25,9,2824,Real Sociedad,2836,Atlético Madrid,0.0,1.0,1.0,1.0,0.0,1.0,Ended
+12437849,LaLiga,24/25,10,2885,Deportivo Alavés,2831,Real Valladolid,1.0,1.0,2.0,1.0,2.0,3.0,Ended
+12437855,LaLiga,24/25,10,2825,Athletic Club,2814,Espanyol,3.0,1.0,4.0,0.0,1.0,1.0,Ended
+12437851,LaLiga,24/25,10,2820,Osasuna,2816,Real Betis,0.0,1.0,1.0,1.0,1.0,2.0,Ended
+12437843,LaLiga,24/25,10,24264,Girona FC,2824,Real Sociedad,0.0,0.0,0.0,1.0,0.0,1.0,Ended
+12437842,LaLiga,24/25,10,2821,Celta Vigo,2829,Real Madrid,0.0,1.0,1.0,1.0,1.0,2.0,Ended
+12437847,LaLiga,24/25,10,2826,Mallorca,2818,Rayo Vallecano,0.0,1.0,1.0,0.0,0.0,0.0,Ended
+12437835,LaLiga,24/25,10,2836,Atlético Madrid,2845,Leganés,0.0,3.0,3.0,1.0,0.0,1.0,Ended
+12437852,LaLiga,24/25,10,2819,Villarreal,2859,Getafe,1.0,0.0,1.0,0.0,1.0,1.0,Ended
+12437839,LaLiga,24/25,10,2817,Barcelona,2833,Sevilla,3.0,2.0,5.0,0.0,1.0,1.0,Ended
+12437854,LaLiga,24/25,10,2828,Valencia,6577,Las Palmas,1.0,1.0,2.0,1.0,2.0,3.0,Ended
+12437609,LaLiga,24/25,11,2814,Espanyol,2833,Sevilla,0.0,0.0,0.0,2.0,0.0,2.0,Ended
+12437627,LaLiga,24/25,11,2831,Real Valladolid,2819,Villarreal,0.0,1.0,1.0,1.0,1.0,2.0,Ended
+12437630,LaLiga,24/25,11,2818,Rayo Vallecano,2885,Deportivo Alavés,0.0,1.0,1.0,0.0,0.0,0.0,Ended
+12437620,LaLiga,24/25,11,6577,Las Palmas,24264,Girona FC,1.0,0.0,1.0,0.0,0.0,0.0,Ended
+12437616,LaLiga,24/25,11,2829,Real Madrid,2817,Barcelona,0.0,0.0,0.0,0.0,4.0,4.0,Ended
+12437618,LaLiga,24/25,11,2845,Leganés,2821,Celta Vigo,0.0,3.0,3.0,0.0,0.0,0.0,Ended
+12437607,LaLiga,24/25,11,2859,Getafe,2828,Valencia,0.0,1.0,1.0,1.0,0.0,1.0,Ended
+12437613,LaLiga,24/25,11,2816,Real Betis,2836,Atlético Madrid,1.0,0.0,1.0,0.0,0.0,0.0,Ended
+12437625,LaLiga,24/25,11,2824,Real Sociedad,2820,Osasuna,0.0,0.0,0.0,2.0,0.0,2.0,Ended
+12437611,LaLiga,24/25,11,2826,Mallorca,2825,Athletic Club,0.0,0.0,0.0,0.0,0.0,0.0,Ended
+12437646,LaLiga,24/25,12,2885,Deportivo Alavés,2826,Mallorca,0.0,1.0,1.0,0.0,0.0,0.0,Ended
+12437644,LaLiga,24/25,12,2820,Osasuna,2831,Real Valladolid,1.0,0.0,1.0,0.0,0.0,0.0,Ended
+12437641,LaLiga,24/25,12,24264,Girona FC,2845,Leganés,2.0,2.0,4.0,2.0,1.0,3.0,Ended
+12437751,LaLiga,24/25,6,2831,Real Valladolid,2824,Real Sociedad,0.0,0.0,0.0,0.0,0.0,0.0,Ended
+12437753,LaLiga,24/25,6,2820,Osasuna,6577,Las Palmas,1.0,1.0,2.0,1.0,0.0,1.0,Ended
+12437748,LaLiga,24/25,6,2828,Valencia,24264,Girona FC,0.0,2.0,2.0,0.0,0.0,0.0,Ended
+12437756,LaLiga,24/25,6,2829,Real Madrid,2814,Espanyol,0.0,4.0,4.0,0.0,1.0,1.0,Ended
+12437739,LaLiga,24/25,6,2859,Getafe,2845,Leganés,0.0,1.0,1.0,0.0,1.0,1.0,Ended
+12437734,LaLiga,24/25,6,2825,Athletic Club,2821,Celta Vigo,2.0,1.0,3.0,1.0,0.0,1.0,Ended
+12437746,LaLiga,24/25,6,2819,Villarreal,2817,Barcelona,1.0,0.0,1.0,2.0,3.0,5.0,Ended
+12437744,LaLiga,24/25,6,2818,Rayo Vallecano,2836,Atlético Madrid,1.0,0.0,1.0,0.0,1.0,1.0,Ended
+12437736,LaLiga,24/25,6,2816,Real Betis,2826,Mallorca,1.0,0.0,1.0,1.0,1.0,2.0,Ended
+12437779,LaLiga,24/25,7,2828,Valencia,2820,Osasuna,0.0,0.0,0.0,0.0,0.0,0.0,Ended
+12437766,LaLiga,24/25,7,2833,Sevilla,2831,Real Valladolid,1.0,1.0,2.0,0.0,1.0,1.0,Ended
+12437782,LaLiga,24/25,7,2829,Real Madrid,2885,Deportivo Alavés,2.0,1.0,3.0,0.0,2.0,2.0,Ended
+12437761,LaLiga,24/25,7,24264,Girona FC,2818,Rayo Vallecano,0.0,0.0,0.0,0.0,0.0,0.0,Ended
+12437758,LaLiga,24/25,7,2817,Barcelona,2859,Getafe,1.0,0.0,1.0,0.0,0.0,0.0,Ended
+12437777,LaLiga,24/25,7,6577,Las Palmas,2816,Real Betis,1.0,0.0,1.0,1.0,0.0,1.0,Ended
+12437768,LaLiga,24/25,7,2814,Espanyol,2819,Villarreal,1.0,0.0,1.0,1.0,1.0,2.0,Ended
+12437774,LaLiga,24/25,7,2821,Celta Vigo,2836,Atlético Madrid,0.0,0.0,0.0,0.0,1.0,1.0,Ended
+12437798,LaLiga,24/25,8,2831,Real Valladolid,2826,Mallorca,0.0,1.0,1.0,0.0,2.0,2.0,Ended
+12437803,LaLiga,24/25,8,2859,Getafe,2885,Deportivo Alavés,1.0,1.0,2.0,0.0,0.0,0.0,Ended
+12437805,LaLiga,24/25,8,2818,Rayo Vallecano,2845,Leganés,1.0,0.0,1.0,0.0,1.0,1.0,Ended
+12437792,LaLiga,24/25,8,2824,Real Sociedad,2828,Valencia,1.0,2.0,3.0,0.0,0.0,0.0,Ended
+12437795,LaLiga,24/25,8,2820,Osasuna,2817,Barcelona,2.0,2.0,4.0,0.0,2.0,2.0,Ended
+12437789,LaLiga,24/25,8,2821,Celta Vigo,24264,Girona FC,0.0,1.0,1.0,1.0,0.0,1.0,Ended
+12437784,LaLiga,24/25,8,2825,Athletic Club,2833,Sevilla,1.0,0.0,1.0,0.0,1.0,1.0,Ended
+12437808,LaLiga,24/25,8,2816,Real Betis,2814,Espanyol,0.0,1.0,1.0,0.0,0.0,0.0,Ended
+12437787,LaLiga,24/25,8,2836,Atlético Madrid,2829,Real Madrid,0.0,1.0,1.0,0.0,1.0,1.0,Ended
+12437800,LaLiga,24/25,8,2819,Villarreal,6577,Las Palmas,1.0,2.0,3.0,0.0,1.0,1.0,Ended
+12437818,LaLiga,24/25,9,2845,Leganés,2828,Valencia,0.0,0.0,0.0,0.0,0.0,0.0,Ended
+12437820,LaLiga,24/25,9,2814,Espanyol,2826,Mallorca,1.0,1.0,2.0,0.0,1.0,1.0,Ended
+12437810,LaLiga,24/25,9,2859,Getafe,2820,Osasuna,1.0,0.0,1.0,0.0,1.0,1.0,Ended
+12437679,LaLiga,24/25,3,2831,Real Valladolid,2845,Leganés,0.0,0.0,0.0,0.0,0.0,0.0,Ended
+12437659,LaLiga,24/25,3,2825,Athletic Club,2828,Valencia,1.0,0.0,1.0,0.0,0.0,0.0,Ended
+12437676,LaLiga,24/25,3,2824,Real Sociedad,2885,Deportivo Alavés,1.0,0.0,1.0,1.0,1.0,2.0,Ended
+12437681,LaLiga,24/25,3,2836,Atlético Madrid,2814,Espanyol,0.0,0.0,0.0,0.0,0.0,0.0,Ended
+12437664,LaLiga,24/25,3,24264,Girona FC,2820,Osasuna,1.0,3.0,4.0,0.0,0.0,0.0,Ended
+12437669,LaLiga,24/25,3,6577,Las Palmas,2829,Real Madrid,1.0,0.0,1.0,0.0,1.0,1.0,Ended
+12437687,LaLiga,24/25,4,2817,Barcelona,2831,Real Valladolid,3.0,4.0,7.0,0.0,0.0,0.0,Ended
+12437684,LaLiga,24/25,4,2825,Athletic Club,2836,Atlético Madrid,0.0,0.0,0.0,0.0,1.0,1.0,Ended
+12437699,LaLiga,24/25,4,2814,Espanyol,2818,Rayo Vallecano,1.0,1.0,2.0,1.0,0.0,1.0,Ended
+12437697,LaLiga,24/25,4,2845,Leganés,2826,Mallorca,0.0,0.0,0.0,1.0,0.0,1.0,Ended
+12437692,LaLiga,24/25,4,2828,Valencia,2819,Villarreal,1.0,0.0,1.0,1.0,0.0,1.0,Ended
+12437694,LaLiga,24/25,4,2885,Deportivo Alavés,6577,Las Palmas,1.0,1.0,2.0,0.0,0.0,0.0,Ended
+12437704,LaLiga,24/25,4,2820,Osasuna,2821,Celta Vigo,2.0,1.0,3.0,1.0,1.0,2.0,Ended
+12437706,LaLiga,24/25,4,2833,Sevilla,24264,Girona FC,0.0,0.0,0.0,1.0,1.0,2.0,Ended
+12437690,LaLiga,24/25,4,2859,Getafe,2824,Real Sociedad,0.0,0.0,0.0,0.0,0.0,0.0,Ended
+12437702,LaLiga,24/25,4,2829,Real Madrid,2816,Real Betis,0.0,2.0,2.0,0.0,0.0,0.0,Ended
+12437711,LaLiga,24/25,5,2816,Real Betis,2845,Leganés,0.0,2.0,2.0,0.0,0.0,0.0,Ended
+12437716,LaLiga,24/25,5,2826,Mallorca,2819,Villarreal,0.0,1.0,1.0,1.0,1.0,2.0,Ended
+12437730,LaLiga,24/25,5,2814,Espanyol,2885,Deportivo Alavés,1.0,2.0,3.0,1.0,1.0,2.0,Ended
+12437723,LaLiga,24/25,5,2833,Sevilla,2859,Getafe,1.0,0.0,1.0,0.0,0.0,0.0,Ended
+12437728,LaLiga,24/25,5,2824,Real Sociedad,2829,Real Madrid,0.0,0.0,0.0,0.0,2.0,2.0,Ended
+12437714,LaLiga,24/25,5,2821,Celta Vigo,2831,Real Valladolid,2.0,1.0,3.0,0.0,1.0,1.0,Ended
+12437721,LaLiga,24/25,5,24264,Girona FC,2817,Barcelona,0.0,1.0,1.0,2.0,2.0,4.0,Ended
+12437718,LaLiga,24/25,5,6577,Las Palmas,2825,Athletic Club,0.0,2.0,2.0,2.0,1.0,3.0,Ended
+12437709,LaLiga,24/25,5,2836,Atlético Madrid,2828,Valencia,1.0,2.0,3.0,0.0,0.0,0.0,Ended
+12437726,LaLiga,24/25,5,2818,Rayo Vallecano,2820,Osasuna,0.0,3.0,3.0,1.0,0.0,1.0,Ended
+12437763,LaLiga,24/25,7,2826,Mallorca,2824,Real Sociedad,1.0,0.0,1.0,0.0,0.0,0.0,Ended
+12778688,LaLiga,24/25,3,2816,Real Betis,2859,Getafe,0.0,2.0,2.0,0.0,1.0,1.0,Ended
+12437772,LaLiga,24/25,7,2845,Leganés,2825,Athletic Club,0.0,0.0,0.0,0.0,2.0,2.0,Ended
+12437741,LaLiga,24/25,6,2885,Deportivo Alavés,2833,Sevilla,1.0,1.0,2.0,0.0,1.0,1.0,Ended
+12437604,LaLiga,24/25,1,2825,Athletic Club,2859,Getafe,1.0,0.0,1.0,0.0,1.0,1.0,Ended
+12437605,LaLiga,24/25,1,2816,Real Betis,24264,Girona FC,1.0,0.0,1.0,0.0,1.0,1.0,Ended
+12437617,LaLiga,24/25,1,2821,Celta Vigo,2885,Deportivo Alavés,0.0,2.0,2.0,1.0,0.0,1.0,Ended
+12437608,LaLiga,24/25,1,6577,Las Palmas,2833,Sevilla,1.0,1.0,2.0,1.0,1.0,2.0,Ended
+12437619,LaLiga,24/25,1,2820,Osasuna,2845,Leganés,0.0,1.0,1.0,1.0,0.0,1.0,Ended
+12437612,LaLiga,24/25,1,2828,Valencia,2817,Barcelona,1.0,0.0,1.0,1.0,1.0,2.0,Ended
+12437615,LaLiga,24/25,1,2824,Real Sociedad,2818,Rayo Vallecano,0.0,1.0,1.0,0.0,2.0,2.0,Ended
+12437606,LaLiga,24/25,1,2826,Mallorca,2829,Real Madrid,0.0,1.0,1.0,1.0,0.0,1.0,Ended
+12437624,LaLiga,24/25,1,2831,Real Valladolid,2814,Espanyol,1.0,0.0,1.0,0.0,0.0,0.0,Ended
+12437610,LaLiga,24/25,1,2819,Villarreal,2836,Atlético Madrid,2.0,0.0,2.0,2.0,0.0,2.0,Ended
+12437631,LaLiga,24/25,2,2821,Celta Vigo,2828,Valencia,2.0,1.0,3.0,1.0,0.0,1.0,Ended
+12437642,LaLiga,24/25,2,2833,Sevilla,2819,Villarreal,1.0,0.0,1.0,1.0,1.0,2.0,Ended
+12437656,LaLiga,24/25,2,2820,Osasuna,2826,Mallorca,0.0,1.0,1.0,0.0,0.0,0.0,Ended
+12437652,LaLiga,24/25,2,2817,Barcelona,2825,Athletic Club,1.0,1.0,2.0,1.0,0.0,1.0,Ended
+12437636,LaLiga,24/25,2,2859,Getafe,2818,Rayo Vallecano,0.0,0.0,0.0,0.0,0.0,0.0,Ended
+12437650,LaLiga,24/25,2,2814,Espanyol,2824,Real Sociedad,0.0,0.0,0.0,0.0,1.0,1.0,Ended
+12437638,LaLiga,24/25,2,2829,Real Madrid,2831,Real Valladolid,0.0,3.0,3.0,0.0,0.0,0.0,Ended
+12437647,LaLiga,24/25,2,2845,Leganés,6577,Las Palmas,0.0,2.0,2.0,0.0,1.0,1.0,Ended
+12437645,LaLiga,24/25,2,2885,Deportivo Alavés,2816,Real Betis,0.0,0.0,0.0,0.0,0.0,0.0,Ended
+12437628,LaLiga,24/25,2,2836,Atlético Madrid,24264,Girona FC,1.0,2.0,3.0,0.0,0.0,0.0,Ended
+12437674,LaLiga,24/25,3,2819,Villarreal,2821,Celta Vigo,1.0,3.0,4.0,2.0,1.0,3.0,Ended
+12437667,LaLiga,24/25,3,2826,Mallorca,2833,Sevilla,0.0,0.0,0.0,0.0,0.0,0.0,Ended
+12437672,LaLiga,24/25,3,2818,Rayo Vallecano,2817,Barcelona,1.0,0.0,1.0,0.0,2.0,2.0,Ended
